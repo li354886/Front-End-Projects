@@ -1,0 +1,63 @@
+.announcements {
+	margin-bottom: 200px;
+}
+
+.announcements ul ul{
+	list-style: disc;
+}
+
+strong {
+	color: #0072c1;
+}
+
+#coursename {
+	color: #59a3d7;
+	margin: 30px 40px 20px;
+	font-size: 50px;
+	line-height: 50px;
+}
+
+#courseid {
+	color: #0072c1;
+	font-size: 80px;
+	margin-right: 20px;
+}
+
+#courseinfo {
+    margin-left: 40px;
+}
+
+
+table {
+    margin: 60px 0;
+    width: 100%;
+    position: relative;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td tr{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 300;
+    text-align: center;
+    min-width: 80px;
+    padding: 0 10px;
+    max-width: 1200px;
+    
+}
+
+
+.column {
+    float: left;
+    margin: 5px;
+    width: 32%;
+}
+.special {
+    color: #29b336;
+}
+.special:hover {
+    color: rgba(41, 179, 54, 0.65);
+}
